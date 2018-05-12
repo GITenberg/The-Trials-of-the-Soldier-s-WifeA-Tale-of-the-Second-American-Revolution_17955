@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7718
     wikipedia: http://en.wikipedia.org/wiki/Alexander_St._Clair-Abrams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17955#The-Trials-of-the-Soldier-s-WifeA-Tale-of-the-Second-American-Revolution
 gutenberg_issued: '2006-03-10'
 gutenberg_type: Text
 identifiers:
