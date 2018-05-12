@@ -1,0 +1,32 @@
+_repo: The-Trials-of-the-Soldier-s-WifeA-Tale-of-the-Second-American-Revolution_17955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abrams, Alex. St. Clair (Alexander St. Clair)
+    aliases:
+    - Abrams, Alexander St. Clair
+    - Abrams, A. S. (Alexander St. Clair)
+    - St. Clair-Abrams, Alexander
+    gutenberg_agent_id: '7718'
+    url: http://www.gutenberg.org/2009/agents/7718
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_St._Clair-Abrams
+description: ''
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Confederate States of America -- Fiction'
+- !lcc 'PS'
+title: 'The Trials of the Soldier''s Wife
+
+  A Tale of the Second American Revolution'
+url: http://www.gutenberg.org/ebooks/17955
